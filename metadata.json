@@ -1,0 +1,5 @@
+{
+  "name": "Python debug assistant",
+  "description": "An intelligent assistant that helps find and fix errors in Python scripts using the Gemini API. Paste your Python code to receive a detailed analysis, error explanations, and a corrected version of your script.",
+  "requestFramePermissions": []
+}
